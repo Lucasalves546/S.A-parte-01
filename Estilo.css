@@ -79,6 +79,8 @@ img{
 .artigos, .artigos:before{
 	width:70%;
 }
+
+
 .artigos:before{
 	position:absolute;
 	top:0;
